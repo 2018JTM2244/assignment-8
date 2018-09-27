@@ -14,4 +14,4 @@
 \contentsline {subsection}{\numberline {3.5}Test cases or Sample Inputs and Respective results}{7}
 \contentsline {subsection}{\numberline {3.6}Difficulties faced}{7}
 \contentsline {section}{\numberline {4}\textbf {\relax \fontsize {12}{14}\selectfont C Programming Codes}}{8}
-\contentsline {section}{\numberline {5}\textbf {\relax \fontsize {12}{14}\selectfont Screenshots related to coding}}{11}
+\contentsline {section}{\numberline {5}\textbf {\relax \fontsize {12}{14}\selectfont Screenshots related to coding}}{12}
