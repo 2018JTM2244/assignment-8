@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Assign_8.aux
+The style file: plain.bst
+Database file #1: citations.bib.bib
+Warning--to sort, need author, organization, or key in 1
+Warning--to sort, need author, organization, or key in 2
+Warning--to sort, need author, organization, or key in 3
+Warning--empty title in 1
+Warning--empty title in 2
+Warning--empty title in 3
+You've used 3 entries,
+            2118 wiz_defined-function locations,
+            500 strings with 4172 characters,
+and the built_in function-call counts, 434 in all, are:
+= -- 36
+> -- 3
+< -- 0
++ -- 3
+- -- 0
+* -- 26
+:= -- 51
+add.period$ -- 3
+call.type$ -- 3
+change.case$ -- 6
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 24
+empty$ -- 58
+format.name$ -- 0
+if$ -- 97
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 0
+newline$ -- 12
+num.names$ -- 0
+pop$ -- 21
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 18
+stack$ -- 0
+substring$ -- 15
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 12
+warning$ -- 6
+while$ -- 0
+width$ -- 4
+write$ -- 17
+(There were 6 warnings)
